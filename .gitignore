@@ -1,0 +1,30 @@
+# ── 大型資料與輸出（太大，不上傳）──────────────────
+data/
+output/
+
+# ── Jupyter Notebook 暫存 ────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── Python ───────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── 虛擬環境 ─────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── 系統 / 編輯器 ────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
