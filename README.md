@@ -101,7 +101,7 @@
 ## 七、繳交內容
 
 - 程式碼（Code）：PM25_Time_Series_Final_Project.ipynb
-- 分析報告（Word 或 PowerPoint）：期末報告.pdf（可自行更名）
+- 分析報告（Word 或 PowerPoint）：report.docx
 
 ## 八、如何重現結果
 
