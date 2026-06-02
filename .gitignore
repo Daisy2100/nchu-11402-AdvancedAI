@@ -1,6 +1,5 @@
 # ── 大型資料與輸出（太大，不上傳）──────────────────
 data/
-output/
 
 # ── Jupyter Notebook 暫存 ────────────────────────────
 .ipynb_checkpoints/
